@@ -1,0 +1,636 @@
+1,This Agreement shall Subject to the terms and conditions of this EULA to Safe-T grants you a nontransferable license to use the Safe-T Cloud Software during the period of the license solely as set forth below,Licence-Metric
+2,This Agreement grants you a license to use the software with pricing based on a usage-based license metric,Licence-Metric
+3,This Agreement Shall allows usage of the software on a network with a maximum bandwidth of 500 megabits per second,Licence-Metric
+4,This Agreement Shall limit the scope of SaaS services or Software set forth herein limitations based on square footage,Licence-Metric
+5,This Agreement shall grants a subscription license for one user to access and user to access and use Microsoft Office 365 services on up to five devices,Licence-Metric
+6,This Agreement shall grants a usage-based license for one user to access and use Google Cloud Platform services,Licence-Metric
+7,This Agreement shall grants a usage-based license for one user to access and use AWS services,Licence-Metric
+8,This Agreement shall grants a perpetual license for one user to install and use Oracle Database on one device,Licence-Metric
+9,This Agreement shall grants a perpetual license for one user to install and use IBM DB2 on one device,Licence-Metric
+10,This Agreement shall grants a license based on the number of users and the number of features enabled,Licence-Metric
+11,This Agreement shall grants a usage-based license based on the number of requests processed and the amount of compute time used,Licence-Metric
+12,This Agreement shall grants a usage-based license based on the number of executions and the amount of compute time used,Licence-Metric
+13,This Agreement shall grants a usage-based license based on the amount of data processed and the number of hosts monitored,Licence-Metric
+14,This Agreement shall grants a license based on the number of hosts,Licence-Metric
+15,This Agreement shall grants a license based on the number of nodes and the features enabled,Licence-Metric
+16,This Agreement shall grants a license based on the number of users and the features enabled,Licence-Metric
+17,This Agreement shall grants a license based on the number of contacts and the features enabled,Licence-Metric
+18,This Agreement shall specifies the number of transactions that can be processed by the software during a given period of time,Licence-Metric
+19,This Agreement shall specifies the amount of data that can be stored in the software,Licence-Metric
+20,This Agreement shall specifies the length of time that the license is valid for,Licence-Metric
+21,This Agreement shall specifies the level of support that is included in the license,Licence-Metric
+22,This Agreement shall specifies the specific features of the software that are enabled in the license,Licence-Metric
+23,This Agreement shall specifies the amount of disk space that the software can use,Licence-Metric
+24,This Agreement shall specifies the number of API calls that can be made to the software during a given period of time,Licence-Metric
+25,This Agreement shall specifies the amount of CPU time that the software can use,Licence-Metric
+26,This Agreement shall install the Software on no more than one desktop or laptop computer,Licence-Metric
+27,This Agreement shall specifies Level of support included in the license standard and premium,Licence-Metric
+28,This Agreement shall grants Number of API calls made during a given period of time,Licence-Metric
+29,This Agreement shall grants Number of transactions processed during a given period of time,Licence-Metric
+30,This Agreement shall grants number of data processed and hosts monitored,Licence-Metric
+31,This Agreement shall run the Software from Our authorized online sources via a browser enabled installation on no more than one desktop or laptop computer,Licence-Metric
+32,This License Agreement offers you a restricted non-exclusive non-transferable permit to utilize the Safe-T Cloud Software within the license duration exclusively as detailed below,Licence-Metric
+33,Under this Agreement a limited non-exclusive and non-transferable license is provided to you for using the Safe-T Cloud Software within the specified license period as described below License Metric,Licence-Metric
+34,The Safe-T Cloud Software can be used solely according to the terms outlined below under a restricted non-exclusive and non-transferable license as granted by this Agreement License Metric,Licence-Metric
+35,Within the license defined timeframe this Agreement provides you with a limited non-exclusive non-transferable license for utilizing the Safe-T Cloud Software in accordance with the following terms License Metric,Licence-Metric
+36,this Agreement bestows upon you a non-transferable license limited in scope non-exclusive in nature for the utilization of the Safe-T Cloud Software during the license period and subject to the conditions set forth here,Licence-Metric
+37,A non-transferable license of limited scope devoid of exclusivity is extended to you under this Agreement for the utilization of the Safe-T Cloud Software during the license duration subject to the stipulations laid out below License Metric,Licence-Metric
+38,Within the period of the license this Agreement entitles you to a non-transferable license with limited scope and non-exclusivity for using the Safe-T Cloud Software exclusively as delineated herein License Metric,Licence-Metric
+39,You are hereby granted a license to use the Safe-T Cloud Software limited in scope non-exclusive and non-transferable during the duration of the license and as expressly detailed below License Metric,Licence-Metric
+40,This Agreement provides you with a non-transferable license of restricted scope and non-exclusivity allowing you to use the Safe-T Cloud Software exclusively as set forth herein within the license period,Licence-Metric
+41,The Safe-T Cloud Software may be used solely within the license period as defined herein under a non-transferable license that is limited in scope and lacks exclusivity License Metric,Licence-Metric
+42,Within the license basic standard and premium levels of support are specified under this Agreement,License-Metric
+43,This Agreement outlines the support levels included in the license which encompass basic standard and premium tiers License Metric,Licence-Metric
+44,The support levels incorporated into the license such as basic standard and premium are delineated in this Agreement,Licence-Metric
+45,Under this Agreement you will find details on the support levels encompassed by the license including basic standard and premium,Licence-Metric
+46,Support levels that consist of basic standard and premium categories are explicitly stated in this Agreement as part of the license,Licence-Metric
+47,This Agreement makes clear the support levels that are part of the license comprising basic standard and premium tiers,Licence-Metric
+48,The levels of support included in the license namely basic standard and premium are specified within this Agreement,Licence-Metric
+49,Within the license this Agreement elaborates on the support levels which encompass basic standard and premium,Licence-Metric
+50,This Agreement delineates the support levels incorporated into the license including basic standard and premium,Licence-Metric
+51,The levels of support included in the license basic standard and premium are specified in detail in this Agreement,Licence-Metric
+52,Under License Metric the software is permitted for use on a network with a maximum bandwidth of 500 megabits per second according to this Agreement,Licence-Metric
+53,This Agreement authorizes the use of the software on a network with a maximum bandwidth of 500 megabits per second as specified under License Metric,Licence-Metric
+54,The software may be utilized on a network with a maximum bandwidth of 500 megabits per second in accordance with this Agreement,Licence-Metric
+55,This Agreement grants permission for the software to be used on a network with a maximum bandwidth of 500 megabits per second as described in License Metric,Licence-Metric
+56,This Agreement permits the usage of the software on a network with a maximum bandwidth of 500 megabits per second,Licence-Metric
+57,The software is allowed to operate on a network with a maximum bandwidth of 500 megabits per second as stipulated in this Agreement under,Licence-Metric
+58,According to License Metric this Agreement sanctions the usage of the software on a network with a maximum bandwidth of 500 megabits per second,Licence-Metric
+59,The software is eligible for operation on a network with a maximum bandwidth of 500 megabits per second as per the terms of this Agreement,Licence-Metric
+60,This Agreement provides authorization for the software to run on a network with a maximum bandwidth of 500 megabits per second in compliance with,Licence-Metric
+61,Under this Agreement the software can be utilized on a network with a maximum bandwidth of 500 megabits per second,Licence-Metric
+62,Under License Metric the software is permitted for use on a network with a maximum bandwidth of 500 megabits per second according to this Agreement,Licence-Metric
+63,This Agreement authorizes the use of the software on a network with a maximum bandwidth of 500 megabits per second as specified under,Licence-Metric
+64,The software may be utilized on a network with a maximum bandwidth of 500 megabits per second in accordance with this Agreement,Licence-Metric
+65,This Agreement grants permission for the software to be used on a network with a maximum bandwidth of 500 megabits per second as described,Licence-Metric
+66,This Agreement permits the usage of the software on a network with a maximum bandwidth of 500 megabits per second,Licence-Metric
+67,The software is allowed to operate on a network with a maximum bandwidth of 500 megabits per second as stipulated in this Agreement under,Licence-Metric
+68,According to License Metric this Agreement sanctions the usage of the software on a network with a maximum bandwidth of 500 megabits per second,Licence-Metric
+69,The software is eligible for operation on a network with a maximum bandwidth of 500 megabits per second as per the terms of this Agreement,Licence-Metric
+70,This Agreement provides authorization for the software to run on a network with a maximum bandwidth of 500 megabits per second in compliance with,Licence-Metric
+71,Under this Agreement the software can be utilized on a network with a maximum bandwidth of 500 megabits per second,Licence-Metric
+72,This Agreement offers a subscription license allowing one user to access and utilize Microsoft Office 365 services on up to five devices,Licence-Metric
+73,This Agreement entitles you to a subscription license that permits one user to access and utilize Microsoft Office 365 services on up to five devices as detailed in,Licence-Metric
+74,A subscription license is granted under this Agreement allowing one user to access and use Microsoft Office 365 services on up to five devices,Licence-Metric
+75,This Agreement authorizes a subscription license enabling one user to access and utilize Microsoft Office 365 services on up to five devices in accordance with,Licence-Metric
+76,Under this Agreement you gain a subscription license to access and use Microsoft Office 365 services on up to five devices,Licence-Metric
+77,This Agreement provides a subscription license allowing one user to access and use Microsoft Office 365 services on up to five devices as specified,Licence-Metric
+78,A subscription license is extended under this Agreement enabling one user to access and use Microsoft Office 365 services on up to five devices,Licence-Metric
+79,This Agreement bestows a subscription license permitting one user to access and use Microsoft Office 365 services on up to five devices in compliance with License Metric,Licence-Metric
+80,A subscription license is defined within this Agreement facilitating one user's access and utilization of Microsoft Office 365 services on up to five devices,Licence-Metric
+
+
+1,This Agreement shall Unauthorized use of the Safe-T Cloud Software or any failure to comply with any provision of this EULA will result in automatic termination of this EULA and will make available to Safe-T other legal remedies,Audit/Verification-Rights
+2,This Agreement Shall audit your use of the Services and verify that your use complies with the terms of this Agreement,Audit/Verification-Rights
+3,This Agreement Shall Microsoft may conduct audits remotely or on-premises at your facilities with or without prior notice to you,Audit/Verification-Rights
+4,This Agreement Shall let You will cooperate fully with Microsoft's auditors and provide them with all information and access reasonably necessary to conduct the audit,Audit/Verification-Rights
+5,This Agreement Shall give you 7 days written notice to audit your use of the software and documentation,Audit/Verification-Rights
+6,This Agreement Shall conduct audit but at your own cost,Audit/Verification-Rights
+7,This Agreement Shall ask for reasonable assistance and access to any information or data by auditor to verfify your compliance,Audit/Verification-Rights
+8,This Agreement Shall ask for payement of applicable to your use of the Software in excess of your rights under this Agreement which may be discovered during audit,Audit/Verification-Rights
+9,This Agreement Shall not use the audit process to collect private information about individuals,Audit/Verification-Rights
+10,This Agreement Shall not use the audit process to promote violence,Audit/Verification-Rights
+11,This Agreement Shall not use the audit process to seek sensitive information about your business operations,Audit/Verification-Rights
+12,This Agreement states that the licensor has the right to audit the license use of the software to ensure compliance with the terms of the EULA,Audit/Verification-Rights
+13,This Agreement states that the licensor may conduct audits remotely or on-premises at the license facilities,Audit/Verification-Rights
+14,This Agreement states that the licensee must cooperate with the licensor auditors and provide them with all necessary information and access to conduct the audit,Audit/Verification-Rights
+15,This Agreement states that the licensor will give the licensee 7 days written notice before conducting an audit,Audit/Verification-Rights
+16,This Agreement states that the licensor will conduct the audit at its own cost,Audit/Verification-Rights
+17,This Agreement states that the licensor may ask the licensee for reasonable assistance and access to any information or data that the auditor needs to verify compliance with the EULA,Audit/Verification-Rights
+18,This Agreement states that the licensee may be required to pay additional fees if the audit reveals that the licensee has exceeded its rights under the EULA,Audit/Verification-Rights
+19,This Agreement States that Our audit and collection of any data and information with respect to Your use of Software shall be subject to the privacy terms specified in Our Privacy Policy,Audit/Verification-Rights
+20,This Agreement Shall set out under this section shall survive for two years past the expiry or termination of the applicable license,Audit/Verification-Rights
+21,This Agreement Shall reserves the right to conduct audits to verify End-User-Licensee's compliance with this EULA,Audit/Verification-Rights
+22,This Agreement Shall have the right to verify Customer compliance with the EULA at any time and without notification,Audit/Verification-Rights
+23,This Agreement Shall let customer provide with reasonable assistance in its verification efforts,Audit/Verification-Rights
+24,This Agreement Shall be entitled to demand payment of the additional License Fee for the period Customer has not been correctly licensed,Audit/Verification-Rights
+25,This Agreement shall specifies Neither Party shall be responsible for the other Party costs associated with this Clause,Audit/Verification-Rights
+26,This Agreement Shall let the Customer must keep all usual and proper records relating to the Subscription and Customer use of the Product or services under this agreement,Audit/Verification-Rights
+27,This Agreement Shall request that customer conduct an internal audit of all services in use throughout Customer's organization comparing the number of user licenses in use to the number of user licenses issued to and/or paid for by customer,Audit/Verification-Rights
+28,This Agreement States that if material unlicensed use is found Customer must reimburse company for the costs company has incurred in verification and also purchase the necessary additional licenses at prevailing prices within 30 days,Audit/Verification-Rights
+29,This Agreement Shall keep and require that any Authorized Affiliates and Professional Consultants keep accurate records in sufficient detail to enable Trimble to effectively exercise its rights,Audit/Verification-Rights
+30,This Agreement states If the licensee is found to be in breach of the EULA the licensor may terminate the agreement and seek other legal remedies,Audit/Verification-Rights
+
+
+
+1,This agreement shall Dispute Resolution and Governing Law In the event of any controversy or dispute or claim arising out of or related to this EULA,Jurisdiction
+2,This agreement states that the parties shall follow the dispute resolution procedures as set forth If licensee is a user residing in Company,Jurisdiction 
+3,This agreement Shall be exclusively submitted to courts of country if any dispute arises relating this agreement,Jurisdiction
+4,This agreement shall be governed by and construed in accordance with the laws of the State of California and any legal action or proceeding relating to this Agreement shall be instituted in the state or federal courts located in Los Angeles County,Jurisdiction
+5,This agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association,Jurisdiction
+6,This agreement states that parties shall submit to binding arbitration in accordance with the rules of the International Chamber of Commerce in London England,Jurisdiction
+7,This agreement shall be brought before the competent courts of your habitual residence,Jurisdiction
+8,This agreement For users accessing our online services from outside the United States any disputes shall be subject to arbitration in accordance with the rules of the International Dispute Resolution Centre in Dubai,Jurisdiction
+9,This agreement that You agree that any dispute resolution proceedings will be conducted only on an individual basis and not in a class or consolidated or representative action,Jurisdiction
+10,This agreement state that if claims or disputes arising under this Agreement shall be within the exclusive jurisdiction of the federal courts of the United States,Jurisdiction
+11,This agreement states that for government users disputes shall be resolved in accordance with the laws of Country and the parties submit to the exclusive jurisdiction of the federal courts located in City,Jurisdiction
+12,This agreement states that any legal action or proceeding arising under this Software License Agreement shall be venued in the state or federal courts located within the State of Texas,Jurisdiction
+13,This agreement states that if you may choose to bring any dispute you have about this Agreement to the courts located within your place of residence,Jurisdiction
+14,This agreement In the case of disputes involving intellectual property right or including patents or trademarks or copyrights the parties agree to submit to the jurisdiction of the appropriate federal courts,Jurisdiction
+15,This agreement shall not constitute a waiver of such right or provision and does not affect the right of either party to assert it at a later time if they failure to exercise or enforce any right or provision,Jurisdiction
+16,This agreement shall be governed by the United Nations Convention on Contracts for the International Sale of Goods and any disputes shall be resolved through arbitration in Geneva Switzerland,Jurisdiction
+17,This agreement states that for users of our digital services any disputes shall be subject to the exclusive jurisdiction of the Digital Services Arbitration Centre in City,Jurisdiction
+18,This agreement governed by the laws of Country or Region and any disputes shall be resolved in the courts of City,Jurisdiction
+19,This agreement states that by using our services consent to the personal jurisdiction of the courts specified in this Agreement for any legal action arising from or related to this Agreement,Jurisdiction
+20,This agreement states that parties agree to engage in good faith negotiations and if necessary submit to alternative dispute resolution before initiating formal legal proceedings,Jurisdiction
+21,This agreement states that any delay or failure by either party to assert its rights or claims under this Agreement does not constitute a waiver of those rights or claims and shall not affect the ability to assert them at a later time,Jurisdiction
+22,This agreement does not grant any third party the right to bring a dispute or claim against any party to this Agreement,Jurisdiction
+23,This agreement states that Disputes related to software updates and patches shall be subject to arbitration in accordance with the rules of the Software Update Resolution Center (SURC) in [City],Jurisdiction
+24,This agreement outside the jurisdiction of the European Union shall be deemed invalid,Jurisdiction
+25,This agreement states that any legal action or proceeding relating to this Agreement shall be brought exclusively in the state or federal courts located within the Silicon Valley area in California,Jurisdiction
+26,This agreement states that any dispute between CUSTOMER and WSP with regard to this Agreement shall exclusively be submitted to the courts of New York if you acquired the WSP Software or Services in the United States,Jurisdiction
+27,In case any dispute or controversy arises from or relates to this EULA this agreement shall govern the resolution and applicable law,Jurisdiction
+28,This EULA shall manage dispute resolution and the governing law whenever a controversy or claim arises,Jurisdiction
+29,Whenever there is a dispute or claim concerning this EULA this agreement will oversee the resolution process and applicable legal provisions,Jurisdiction
+30,This agreement will be in charge of dispute resolution and the applicable law whenever a dispute or controversy arises in connection with this EULA,Jurisdiction
+31,In the event of any dispute claim or controversy arising from or related to this EULA this agreement will determine the dispute resolution procedures and the relevant legal framework,Jurisdiction
+32,This EULA will preside over dispute resolution and the choice of governing law in the event of any dispute controversy or claim,Jurisdiction
+33,Whenever a dispute claim or controversy arises regarding this EULA this agreement will dictate the procedures for resolution and the governing legal principles,Jurisdiction
+34,In the case of any dispute or claim arising out of or relating to this EULA this agreement shall determine the rules for dispute resolution and the applicable legal system,Jurisdiction
+35,This agreement shall be responsible for dispute resolution and the selection of governing law whenever a dispute controversy or claim arises in connection with this EULA,Jurisdiction
+36,Whenever a controversy claim or dispute arises in relation to this EULA this agreement will guide the process of dispute resolution and the choice of applicable law,Jurisdiction
+37,This agreement asserts that if the licensee resides in Company the parties must adhere to the dispute resolution procedures outlined,Jurisdiction
+38,If the licensee is a resident of Company this agreement mandates the parties compliance with the specified dispute resolution procedures,Jurisdiction
+39,In the event that the licensee resides in Company this agreement dictates that the parties shall observe the dispute resolution procedures as outlined,Jurisdiction
+40,This agreement stipulates that if the licensee is based in Company the parties are obligated to follow the dispute resolution procedures as described,Jurisdiction
+41,If the licensee's residence is in Company this agreement requires the parties to adhere to the specified dispute resolution procedures,Jurisdiction
+42,In the case where the licensee is a resident of Company this agreement enforces the parties adherence to the prescribed dispute resolution procedures,Jurisdiction
+43,This agreement outlines that if the licensee is situated in Company the parties shall abide by the designated dispute resolution procedures,Jurisdiction
+44,Should the licensee reside in Company this agreement compels the parties to comply with the outlined dispute resolution procedures,Jurisdiction
+45,This agreement declares that if the licensee is based in Company the parties must follow the dispute resolution procedures as specified,Jurisdiction
+46,In the circumstance where the licensee is a user residing in Company this agreement directs the parties to follow the stated dispute resolution procedures,Jurisdiction
+47,This agreement shall be exclusively submitted to the courts of the country if any dispute arises relating to this agreement,Jurisdiction
+48,This agreement states that the parties shall follow the dispute resolution procedures as set forth if licensee is a user residing in the company,Jurisdiction
+49,This agreement outlines the governing law that applies to any controversy dispute or claim arising out of or related to this EULA,Jurisdiction
+50,This agreement sets the terms for dispute resolution in the event of a controversy or dispute arising from this EULA,Jurisdiction
+51,This agreement specifies that any dispute or claim arising out of this EULA shall be resolved through the stated dispute resolution procedures,Jurisdiction
+52,This agreement requires the parties to follow the dispute resolution procedures if the licensee is a user residing in the company,Jurisdiction
+53,This agreement designates the courts of the country as the exclusive venue for resolving any disputes related to this agreement,Jurisdiction
+54,This agreement mandates that any controversy arising from it must be submitted exclusively to the courts of the country,Jurisdiction
+55,This agreement determines that the governing law for disputes arising from it is specified within the document,Jurisdiction
+56,This agreement compels the parties to adhere to the outlined dispute resolution procedures for any arising controversies,Jurisdiction
+57,This agreement shall be governed by and construed in accordance with the laws of the State of California,Jurisdiction
+58,Any legal action or proceeding relating to this Agreement shall be instituted in the state or federal courts,Jurisdiction
+59,The legal action or proceeding shall be instituted in the state or federal courts located in Los Angeles County,Jurisdiction
+60,These courts are the designated venues for handling any legal action or proceeding related to this Agreement,Jurisdiction
+61,The Agreement specifies that the governing law is the laws of the State of California,Jurisdiction
+62,In accordance with this governing law all legal matters arising from this Agreement must be addressed,Jurisdiction
+63,The choice of law and venue are outlined within the Agreement for clarity,Jurisdiction
+64,The Agreement ensures that any legal actions or proceedings are conducted under the laws of California,Jurisdiction
+65,Legal action or proceedings related to this Agreement must be initiated within the state or federal courts,Jurisdiction
+66,The Agreement's terms are clear regarding the jurisdiction and governing law for resolving legal matters,Jurisdiction
+67,This agreement shall be resolved through binding arbitration,Jurisdiction
+68,The resolution will be in accordance with the rules of the American Arbitration Association,Jurisdiction
+69,The Agreement specifies the method of dispute resolution,Jurisdiction
+70,It clearly outlines that the resolution will be achieved through binding arbitration,Jurisdiction
+71,The use of binding arbitration is governed by specific rules,Jurisdiction
+72,These rules are those of the American Arbitration Association,Jurisdiction
+73,The Agreement designates arbitration as the chosen method for dispute resolution,Jurisdiction
+74,The rules of the American Arbitration Association provide the framework for this process,Jurisdiction
+75,Binding arbitration is the agreed-upon approach for settling disputes arising from this Agreement,Jurisdiction
+76,The American Arbitration Association's rules are the guiding principles for the arbitration process,Jurisdiction
+77,This agreement pertains to users accessing our online services from outside the United States,Jurisdiction
+78,Disputes involving such users shall be subject to arbitration,Jurisdiction
+79,The arbitration will be conducted in accordance with specific rules,Jurisdiction
+80,These rules are those of the International Dispute Resolution Centre in Dubai,Jurisdiction
+81,For users located outside the United States this Agreement is applicable,Jurisdiction
+82,The Agreement governs the terms for those accessing our online services internationally,Jurisdiction
+83,Users residing abroad are bound by the terms outlined in this Agreement,Jurisdiction
+84,When disputes arise arbitration is the chosen method for resolution,Jurisdiction
+85,The process of arbitration follows established rules,Jurisdiction
+86,These rules are specifically those of the International Dispute Resolution Centre in Dubai,Jurisdiction
+87,Users outside the United States are encompassed by this Agreement,Jurisdiction
+88,International users accessing our online services are subject to these terms,Jurisdiction
+89,This Agreement applies to individuals and entities accessing our services globally,Jurisdiction
+90,When disagreements occur arbitration is the designated process,Jurisdiction
+91,The rules governing this arbitration are outlined by the International Dispute Resolution Centre in Dubai,Jurisdiction
+92,Users situated abroad are included in the scope of this Agreement,Jurisdiction
+93,Those accessing our online services internationally must adhere to these terms,Jurisdiction
+94,This Agreement establishes the guidelines for users worldwide,Jurisdiction
+95,In cases of dispute arbitration serves as the primary method for resolution,Jurisdiction
+96,The arbitration process follows the specific rules of the International Dispute Resolution Centre in Dubai,Jurisdiction
+97,The agreement will also take into account applicable legal provisions,Jurisdiction
+98,In the event of a dispute or claim this EULA will be the guiding document,Jurisdiction
+99,It will dictate the procedures for resolving such matters,Jurisdiction
+100,Whenever disputes or claims arise this agreement takes charge,Jurisdiction
+101,It determines the steps necessary for resolution,Jurisdiction
+102,it considers the legal provisions that apply,Jurisdiction
+103,When there is any dispute or claim this EULA plays a central role,Jurisdiction
+104,It ensures adherence to the prescribed resolution process and relevant legal provisions,Jurisdiction
+
+
+
+
+1,This agreement may terminate immediately if you breach any of its terms or fail to comply with any policies we provide,Termination
+2,This agreement states that if Failure to pay the required fees within the specified timeframes may result in the immediate termination of this Agreement,Termination
+3,This agreement states that If you use our software or services for unauthorized purposes or in violation of applicable laws we reserve the right to terminate this Agreement,Termination
+4,This agreement shall terminate if Misuse of our resources including excessive bandwidth or system resources,Termination
+5,This agreement shall terminate due to prolonged inactivity,Termination
+6,This agreement shall terminate if no login or usage for certain time,Termination
+7,This agreement shall terminate if found Engaging in activities that compromise the security or integrity of our services,Termination
+8,This agreement shall terminate if Infringing on our intellectual property rights or the rights of others,Termination
+9,This agreement shall terminate if Any unauthorized access to or misuse of personal data or privacy violations,Termination
+10,This agreement shall terminate if found Violations of export control laws or regulations,Termination
+11,This agreement shall terminate if we are unable to perform our obligations due to unforeseen circumstances beyond our control,Termination
+12,This agreement shall terminate If you or your organization become insolvent or file for bankruptcy,Termination
+13,This agreement shall terminate upon the expiration of the license period,Termination
+14,This agreement shall terminate if your business undergoes a substantial change in direction or ownership,Termination
+15,This agreement shall terminate if found in the event of a merger or acquisition,Termination
+16,This agreement shall terminate if changes in regulatory requirements make it impossible to continue,Termination
+17,This agreement shall terminate If we relocate our data center and your services are affected,Termination
+18,This agreement shall terminate excessive use of resources in violation of our fair usage policy,Termination
+19,This agreement shall terminate if failure to perform obligations or meet milestones as specified,Termination
+20,This agreement shall terminate if hosting or distributing infringing content,Termination
+21,This agreement shall terminate for any reason with [specific notice period] without penalty,Termination
+22,This agreement shall terminate Any violations of our acceptable use policy,Termination
+23,This agreement shall terminate if there is a change in applicable laws or regulations that makes it impossible to continue under this Agreement,Termination
+24,This agreement shall terminate if failure to provide accurate and up-to-date contact information,Termination
+25,This agreement shall terminate if we discontinue the provision of specific services or software,Termination
+26,This agreement shall terminate if engaging in conduct that violates our established code of conduct,Termination
+27,This agreement shall terminate if substantial changes are made to the terms of this Agreement,Termination
+28,This agreement shall terminate if a breach of this Agreement occurs and is not cured within a specified notice period,Termination
+29,This agreement shall terminate if disrupting or interfering with the proper operation of our service,Termination
+30,This agreement shall terminate if any unauthorized disclosure of confidential information in violation of a nondisclosure agreement,Termination
+31,This agreement is subject to termination if certain conditions are met,Termination
+32,The termination clause becomes applicable when specific terms are violated,Termination
+33,Immediate termination is possible upon a breach of the agreement's terms,Termination
+34,Breaching any of the stipulated terms triggers the termination process,Termination
+35,If any terms are violated this agreement allows for immediate termination,Termination
+36,Failure to comply with policies we provide can lead to termination,Termination
+37,Termination becomes an option when non-compliance occurs,Termination
+38,The breach of terms or non-compliance activates the termination clause,Termination
+39,In the case of policy violations this agreement can be terminated,Termination
+40,Immediate termination may result from any breaches or policy non-compliance,Termination
+41,This agreement may terminate immediately if you breach any of its terms,Termination
+42,Breaching the terms of this agreement could lead to its immediate termination,Termination
+43,Termination may occur swiftly if any of the agreement's terms are violated,Termination
+44,Violating the terms may result in the agreement's termination without delay,Termination
+45,Immediate termination is possible upon breaching any terms of this agreement,Termination
+46,The agreement has provisions for swift termination in case of breaches,Termination
+47,If you breach any terms this agreement allows for immediate termination,Termination
+48,This agreement outlines the possibility of quick termination for violations,Termination
+49,Swift termination is a consequence of any breaches of this agreement,Termination
+50,The agreement terms emphasize the potential for immediate termination,Termination
+51,The agreement can also terminate if you fail to comply with any policies we provide,Termination
+52,Non-compliance with our provided policies may lead to termination of the agreement,Termination
+53,Termination could be the result of not adhering to policies we provide,Termination
+54,The agreement mentions that failing to follow provided policies can result in termination,Termination
+55,Non-compliance with our policies is grounds for terminating the agreement,Termination
+56,If you do not comply with the policies we provide the agreement can be terminated,Termination
+57,Termination may be triggered by a lack of compliance with our policies,Termination
+58,This agreement allows for termination if our provided policies are not followed,Termination
+59,Not adhering to the policies we provide could lead to the agreement's termination,Termination
+60,Failing to comply with provided policies is explicitly linked to termination in this agreement,Termination
+61,Termination could happen due to failure to pay the required fees within the specified timeframes,Termination
+62,The failure to pay required fees within specified timeframes may result in termination,Termination
+63,Termination is a possible consequence of not meeting payment deadlines,Termination
+64,This agreement makes it clear that failing to pay fees within specified timeframes can lead to termination,Termination
+65,Non-payment within the specified timeframes is grounds for termination,Termination
+66,If fees are not paid within the specified timeframes termination is a potential outcome,Termination
+67,The agreement allows for termination if required fees are not paid on time,Termination
+68,Not meeting payment deadlines could result in the agreement's termination,Termination
+69,Failure to pay fees within specified timeframes is explicitly linked to termination in this agreement,Termination
+70,Termination may occur when required fees are not paid within the specified timeframes,Termination
+71,Swift termination is the consequence of violating this agreement in such cases,Termination
+72,Violation of this agreement in these situations results in swift termination,Termination
+73,Termination is prompt when this agreement is violated in these cases,Termination
+74,The agreement stipulates swift termination for violations in these instances,Termination
+75,the violation of this agreement leads to immediate termination,Termination
+76,Violating this agreement in these situations triggers swift termination,Termination
+77,Swift termination is explicitly mentioned for violations in these cases,Termination
+78,Termination is swift when this agreement is violated under these circumstances,Termination
+79,The agreement specifies prompt termination for violations occurring in these cases,Termination
+80,The agreement states that prolonged inactivity may lead to termination,Termination
+81,Prolonged inactivity is grounds for termination as specified in the agreement,Termination
+82,This agreement allows for termination in cases of extended inactivity,Termination
+83,If there is no login or usage for a certain time termination is a possibility according to this agreement,Termination
+84,The agreement explicitly mentions termination in the event of prolonged inactivity,Termination
+85,Termination is a potential outcome of extended periods of inactivity as per the agreement,Termination
+86,This agreement stipulates that no login or usage for a certain time can trigger termination,Termination
+87,Extended inactivity can result in termination as outlined in the agreement,Termination
+88,The agreement emphasizes the possibility of termination due to prolonged inactivity,Termination
+89,This agreement allows for termination if there is no login or usage for a certain time,Termination
+90,Termination may occur if there is no login or usage within a specified timeframe as stated in the agreement,Termination
+91,The agreement specifies that termination is possible when there is no login or usage for a certain time,Termination
+92,Inactivity for a specified period can trigger termination according to this agreement,Termination
+93,Termination is explicitly mentioned as a consequence of no login or usage for a certain time in the agreement,Termination
+94,This agreement highlights the potential for termination in the absence of login or usage,Termination
+95,Non-engagement within a specified timeframe can result in termination as per the agreement,Termination
+96,The agreement outlines termination if activities compromising security or integrity occur,Termination
+97,The agreement explicitly mentions termination as a consequence of activities compromising security or integrity,Termination
+98,This agreement allows for termination in cases of activities that compromise security or integrity,Termination
+99,Termination is outlined in this agreement if there is any infringement on intellectual property rights,Termination
+100,The agreement specifies that infringement on intellectual property rights can result in termination,Termination
+
+
+
+
+
+1,This agreement shall be limited to the amount you paid for the software or service,Liability
+2,The company shall not be liable for any direct-indirect-incidental-special or consequential damages,Liability
+3,In no event shall the company's liability exceed the amount paid by the user for the software or services,Liability
+4,The user agrees to indemnify and hold the company harmless from any damages,Liability
+5,The company disclaims all warranties including fitness for a particular purpose and non-infringement,Liability
+6,The company is not responsible for any third-party content or services accessed through the software,Liability
+7,Liability is limited to the maximum extent permitted by applicable law,Liability
+8,The company shall not be liable for any loss of data or data breaches,Liability
+9,Any action against the company must be brought within a specified time frame,Liability
+10,The company is not liable for any interruptions or downtime of the software or services,Liability
+11,The user acknowledges that the software may contain bugs or errors and the company is not liable for any resulting issues,Liability
+12,The company is not responsible for any unauthorized access to the user's account,Liability
+13,The user assumes all risks associated with the use of the software or services,Liability
+14,The company shall not be liable for any damages resulting from the use of third-party hardware or software,Liability
+15,The user is solely responsible for backup and data recovery,Liability
+16,The company is not liable for any loss of profits or business opportunities,Liability
+17,The user agrees that the company is not liable for any viruses or malware transmitted through the software or services,Liability
+18,The company is not liable for any actions taken by law enforcement agencies,Liability
+19,Liability is excluded for any acts of God or other unforeseen events,Liability
+20,The company is not liable for any inaccuracies or errors in content provided through the software,Liability
+21,The user agrees that the company's liability is limited even if advised of the possibility of damages,Liability
+22,Liability for any breach of this agreement is limited to the extent permitted by law,Liability
+23,The company shall not be liable for any loss of confidential or sensitive information,Liability
+24,The user acknowledges that the company is not liable for the actions of other users of the software,Liability
+25,The company is not liable for any delay or failure to perform its obligations due to circumstances beyond its control,Liability
+26,Liability for any security breaches is limited to the company's efforts to maintain security,Liability
+27,The user agrees that the company is not liable for any disputes between users,Liability
+28,The company is not liable for any damage to the user's computer or devices,Liability
+29,Liability for any violation of intellectual property rights is limited to a specified remedy,Liability
+30,The company is not liable for any consequential damages resulting from a security breach,Liability
+31,The user acknowledges that the company is not liable for the availability of third-party services integrated with the software,Liability
+32,Liability is excluded for any actions taken to protect the company's intellectual property,Liability
+33,The company shall not be liable for any errors or omissions in the software or services,Liability
+34,The user agrees that the company is not liable for any unauthorized modifications to the software,Liability
+35,Liability for any breach of privacy is limited to the company's privacy policy,Liability
+36,The company is not liable for any loss of access to the software or services due to user actions,Liability
+37,Liability for any violation of export control laws is limited to the extent permitted by law,Liability
+38,The user agrees that the company is not liable for any actions of its employees or contractors,Liability
+39,The company shall not be liable for any defamation or harm caused by user-generated content,Liability
+40,Liability is excluded for any unauthorized use of the user's account,Liability
+41,The user acknowledges that the company is not liable for the accuracy of content provided by third parties,Liability
+42,The company is not liable for any reliance on information obtained through the software,Liability
+43,Liability for any violation of fair use policies is limited to the company's policies,Liability
+44,The company shall not be liable for any damage to the user's reputation or business,Liability
+45,The user agrees that the company is not liable for any changes to the software or services,Liability
+46,Liability for any breach of confidentiality is limited to a specified remedy,Liability
+47,The company is not liable for any loss of user-generated content,Liability
+48,Liability is excluded for any breach of data protection laws,Liability
+49,The user acknowledges that the company is not liable for any disputes with third-party providers,Liability
+50,The company shall not be liable for any loss of access to the software or services due to maintenance or upgrades,Liability
+51,The company is not liable for any unauthorized access to the user's personal information,Liability
+52,Liability for any breach of this agreement is limited to a specified remedy,Liability
+53,The user agrees that the company is not liable for any actions taken to enforce this agreement,Liability
+54,The company is not liable for any loss of access to the software or services due to network or server issues,Liability
+55,Liability is excluded for any breach of data security measures,Liability
+56,The company shall not be liable for any disputes between users of the software or services,Liability
+57,The user acknowledges that the company is not liable for any changes in the legal or regulatory landscape,Liability
+58,The company is not liable for any loss of access to the software or services due to user non-compliance,Liability
+59,Liability for any violation of usage policies is limited to the company's policies,Liability
+60,The company is not liable for any unauthorized access to user accounts,Liability
+61,The user agrees that the company is not liable for any loss of access to the software or services due to user actions,Liability
+62,The company is not liable for any actions taken to protect the integrity of its systems,Liability
+63,Liability is excluded for any breach of payment obligations,Liability
+64,The user acknowledges that the company is not liable for any disputes with payment processors,Liability
+65,The company shall not be liable for any loss of access to the software or services due to billing issues,Liability
+67,The company is not liable for any unauthorized access to user payment information,Liability
+68,Liability for any violation of payment terms is limited to the company's terms,Liability
+69,The user agrees that the company is not liable for any loss of access to the software or services due to disputes with payment processors,Liability
+70,The company is not liable for any actions taken to enforce payment obligations,Liability
+71,Liability is excluded for any breach of financial regulations,Liability
+72,The user acknowledges that the company is not liable for any disputes with financial institutions,Liability
+73,The company shall not be liable for any loss of access to the software or services due to financial disputes,Liability
+74,The company is not liable for any unauthorized access to financial information,Liability
+75,Liability for any violation of financial terms is limited to the company's terms,Liability
+76,The user agrees that the company is not liable for any loss of access to the software or services due to changes in financial regulations,Liability
+77,The company is not liable for any actions taken to enforce financial obligations,Liability
+78,Liability is excluded for any breach of advertising standards,Liability
+79,The user acknowledges that the company is not liable for any disputes with advertisers,Liability
+80,The company shall not be liable for any loss of access to the software or services due to advertising disputes,Liability
+81,Liability for any violation of advertising policies is limited to the company's policies,Liability
+82,The user agrees that the company is not liable for any loss of access to the software or services due to changes in advertising standards,Liability
+83,The company is not liable for any actions taken to enforce advertising standards,Liability
+84,Liability is excluded for any breach of content guidelines,Liability
+85,The user acknowledges that the company is not liable for any disputes related to content guidelines,Liability
+86,The company shall not be liable for any loss of access to the software or services due to content guideline disputes,Liability
+87,The company is not liable for any unauthorized content posted by users,Liability
+88,Liability for any violation of content guidelines is limited to the company's policies,Liability
+89,The user agrees that the company is not liable for any loss of access to the software or services due to changes in content guidelines,Liability
+90,The company is not liable for any actions taken to enforce content guidelines,Liability
+91,The user acknowledges that the company is not liable for any disputes related to user conduct standards,Liability
+92,The company shall not be liable for any loss of access to the software or services due to user conduct standard disputes,Liability
+93,The company is not liable for any unauthorized conduct by users,Liability
+94,Liability for any violation of user conduct standards is limited to the company's policies,Liability
+95,The user agrees that the company is not liable for any loss of access to the software or services due to changes in user conduct standards,Liability
+96,The company is not liable for any actions taken to enforce user conduct standards,Liability
+97,The company shall not be liable for any loss of access to the software or services due to community guideline disputes,Liability
+98,The company is not liable for any unauthorized actions by users in violation of community guidelines,Liability
+99,The user acknowledges that the company is not liable for any disputes related to community guidelines,Liability
+100,The company shall not be liable for any damages losses or injuries arising from the use of the software or services including but not limited to indirect incidental special consequential or punitive damages,Liability 
+
+
+
+1,This Agreement grants you a personal non-exclusive non-transferable license to install and use the Software on a single device,Licence-grant
+2,You are granted a non-exclusive non-transferable license to install and use the Software on up to five (5) devices owned or controlled by you,Licence-grant
+3,Subject to the terms herein this Agreement grants your organization a non-exclusive non-transferable license to use the Software on an unlimited number of devices within your enterprise,Licence-grant
+4,You are hereby granted a limited non-exclusive non-transferable license to use the Software for a trial period of thirty (30) days,Licence-grant
+5,This Agreement provides you with a subscription-based license to access and use the Software for the duration of your subscription,Licence-grant
+6,You are granted a perpetual non-exclusive non-transferable license to use the Software indefinitely subject to compliance with this Agreement,Licence-grant
+7,Under this Agreement educational institutions are granted a non-exclusive non-transferable license to use the Software for educational purposes on a limited number of devices,Licence-grant
+8,This Agreement allows you to use the Software for personal non-commercial purposes only under a non-transferable license,Licence-grant
+9,You are granted a non-exclusive non-transferable license to use a limited version of the Software with reduced functionality,Licence-grant
+10,This Agreement grants you a license to use the Software for the purpose of integrating it with third-party applications or services,Licence-grant
+11,You are authorized to use the Software on a pay-as-you-go basis under a non-exclusive non-transferable license,Licence-grant
+12,This Agreement provides you with a license to access and use the Software via a web-based interface,Licence-grant
+13,You may install and use the Software on any device provided that the total number of devices does not exceed the number of licenses purchased,Licence-grant
+14,This Agreement grants a license for use of the Software on mobile devices such as smartphones and tablets,Licence-grant
+15,You are granted a non-exclusive non-transferable license to use the Software solely for backup or archival purposes,Licence-grant
+16,This Agreement entitles you to use the Software for testing and evaluation purposes under a limited non-exclusive non-transferable license,Licence-grant
+17,You may use the Software on a single server or cluster of servers within your organization under this non-exclusive non-transferable license,Licence-grant
+18,This Agreement permits you to use the Software to process and analyze data generated by your organization,Licence-grant
+19,You are authorized to use the Software to create derivative works or customizations tailored to your specific needs,Licence-grant
+20,This Agreement allows you to use the Software to access and interact with external databases and data sources,Licence-grant
+21,You are granted a non-exclusive non-transferable license to use the Software for research and development purposes,Licence-grant
+22,This Agreement provides a license to use the Software as part of a software-as-a-service (SaaS) offering to your customers,Licence-grant
+23,You may use the Software to create and distribute software applications to third parties under a non-exclusive non-transferable license,Licence-grant
+24,This Agreement grants you a license to use the Software on virtual machines or cloud-based infrastructure,Licence-grant
+25,You are authorized to use the Software to develop and deploy websites and web applications,Licence-grant
+26,This Agreement entitles you to use the Software for non-profit or charitable purposes under a non-exclusive non-transferable license,Licence-grant
+27,You may use the Software to automate and streamline business processes within your organization,Licence-grant
+28,This Agreement permits you to use the Software to create and publish content such as documents and multimedia,Licence-grant
+29,You are granted a non-exclusive non-transferable license to use the Software for educational or instructional purposes,Licence-grant
+30,This Agreement provides you with a license to use the Software for graphic design and multimedia production,Licence-grant
+31,You may use the Software to perform data analysis and generate reports and visualizations,Licence-grant
+32,This Agreement grants you a license to use the Software to manage and monitor network infrastructure and devices,Licence-grant
+33,You are authorized to use the Software for cybersecurity purposes including threat detection and incident response,Licence-grant
+34,This Agreement allows you to use the Software for financial analysis and modeling,Licence-grant
+35,You may use the Software to develop and test software applications for mobile devices,Licence-grant
+36,This Agreement entitles you to use the Software for managing and organizing personal or professional contacts,Licence-grant
+37,You are granted a non-exclusive non-transferable license to use the Software for content creation and publishing,Licence-grant
+38,This Agreement provides a license to use the Software for customer relationship management (CRM) and sales automation,Licence-grant
+39,You may use the Software for project management and collaboration within your organization,Licence-grant
+40,This Agreement permits you to use the Software for e-commerce and online retail purposes,Licence-grant
+41,You are authorized to use the Software for supply chain management and logistics,Licence-grant
+42,This Agreement grants you a license to use the Software for inventory management and control,Licence-grant
+43,You may use the Software for human resources and personnel management,Licence-grant
+44,This Agreement entitles you to use the Software for document management and electronic records keeping,Licence-grant
+45,You are granted a non-exclusive non-transferable license to use the Software for legal research and practice,Licence-grant
+46,This Agreement provides a license to use the Software for healthcare and medical record keeping,Licence-grant
+47,You may use the Software for data backup and disaster recovery purposes,Licence-grant
+48,This Agreement permits you to use the Software for data migration and data integration,Licence-grant
+49,You are authorized to use the Software for geospatial mapping and geographic information system (GIS) applications,Licence-grant
+50,This Agreement grants you a license to use the Software for architectural design and drafting,Licence-grant
+51,You may use the Software for video editing and multimedia production,Licence-grant
+52,This Agreement entitles you to use the Software for audio recording and music production,Licence-grant
+53,You are granted a non-exclusive non-transferable license to use the Software for 3D modeling and animation,Licence-grant
+54,This Agreement provides a license to use the Software for game development and interactive entertainment,Licence-grant
+55,You may use the Software for scientific research and data analysis,Licence-grant
+56,This Agreement permits you to use the Software for data visualization and business intelligence,Licence-grant
+57,You are authorized to use the Software for simulation and modeling purposes,Licence-grant
+58,This Agreement grants you a license to use the Software for virtual reality (VR) and augmented reality (AR) development,Licence-grant
+59,You may use the Software for artificial intelligence (AI) and machine learning (ML) research and development,Licence-grant
+60,This Agreement entitles you to use the Software for autonomous vehicle development and testing,Licence-grant
+61,You are granted a non-exclusive non-transferable license to use the Software for robotics and automation,Licence-grant
+62,This Agreement provides a license to use the Software for environmental monitoring and conservation,Licence-grant
+63,You may use the Software for energy management and optimization,Licence-grant
+64,This Agreement permits you to use the Software for smart home and Internet of Things (IoT) applications,Licence-grant
+65,You are authorized to use the Software for industrial automation and control,Licence-grant
+66,This Agreement grants you a license to use the Software for aerospace and defense applications,Licence-grant
+67,You may use the Software for telecommunications and network infrastructure management,Licence-grant
+68,This Agreement entitles you to use the Software for automotive design and engineering,Licence-grant
+69,You are granted a non-exclusive non-transferable license to use the Software for pharmaceutical research and development,Licence-grant
+70,This Agreement provides a license to use the Software for chemical and materials science research,Licence-grant
+71,You may use the Software for food and beverage production and quality control,Licence-grant
+72,This Agreement permits you to use the Software for agriculture and crop management,Licence-grant
+73,You are authorized to use the Software for construction and civil engineering projects,Licence-grant
+74,This Agreement grants you a license to use the Software for oil and gas,Licence-grant
+75,You may use the Software for environmental and natural resource management,Licence-grant
+76,This Agreement entitles you to use the Software for educational and academic research,Licence-grant
+77,You are granted a non-exclusive non-transferable license to use the Software for government and public sector applications,Licence-grant
+78,This Agreement provides a license to use the Software for financial services and banking,Licence-grant
+79,You may use the Software for insurance and risk management,Licence-grant
+80,This Agreement permits you to use the Software for real estate and property management,Licence-grant
+81,You are authorized to use the Software for retail and consumer goods applications,Licence-grant
+82,This Agreement grants you a license to use the Software for manufacturing and production,Licence-grant
+83,You may use the Software for transportation and logistics management,Licence-grant
+84,This Agreement entitles you to use the Software for energy and utilities management,Licence-grant
+85,You are granted a non-exclusive non-transferable license to use the Software for healthcare and medical applications,Licence-grant
+86,This Agreement provides a license to use the Software for pharmaceutical and life sciences research,Licence-grant
+87,You may use the Software for biotechnology and genetic research,Licence-grant
+88,This Agreement permits you to use the Software for academic and scientific publishing,Licence-grant
+89,You are authorized to use the Software for media and entertainment production,Licence-grant
+90,This Agreement grants you a license to use the Software for marketing and advertising,Licence-grant
+91,You may use the Software for public relations and corporate communications,Licence-grant
+92,This Agreement entitles you to use the Software for social media management and analytics,Licence-grant
+93,You are granted a non-exclusive non-transferable license to use the Software for e-learning and online education,Licence-grant
+94,This Agreement provides a license to use the Software for talent management and recruitment,Licence-grant
+95,You may use the Software for human capital management and workforce planning,Licence-grant
+96,This Agreement permits you to use the Software for legal and compliance management,Licence-grant
+97,You are authorized to use the Software for customer service and support,Licence-grant
+98,This Agreement grants you a license to use the Software for IT and software development,Licence-grant
+99,You may use the Software for project and portfolio management,Licence-grant
+100,This Agreement entitles you to use the Software for quality assurance and testing,Licence-grant
+
+
+1,This Agreement states the Tenant indemnifies the Landlord for damages to the rental property,Indemnities
+2,This Agreement states the Manufacturer indemnifies the Retailer for third-party product liability claims,Indemnities
+3,This Agreement states the Advertiser indemnifies the Publisher for claims arising from false advertising,Indemnities
+4,This Agreement states the Company indemnifies clients for losses resulting from a cybersecurity breach,Indemnities
+5,This Agreement states the Company indemnifies its directors and officers against shareholder actions,Indemnities
+6,This Agreement states the Tenant indemnifies the Landlord for the cost of leasehold improvements,Indemnities
+7,This Agreement states the Employer indemnifies terminated employees during a workforce reduction,Indemnities
+8,This Agreement states the Event Organizer indemnifies attendees against personal injury claims,Indemnities
+9,This Agreement states the Carrier indemnifies the Shipper for losses resulting from shipping delays,Indemnities
+10,This Agreement states the Law Enforcement Agency indemnifies individuals wrongfully arrested,Indemnities
+11,This Agreement states the Company indemnifies regulatory agencies for compliance violations,Indemnities
+12,This Agreement states the Employer indemnifies clients for losses due to employee theft,Indemnities
+13,This Agreement states the Financial Advisor indemnifies clients for investment losses,Indemnities
+14,This Agreement states the Financial Institution indemnifies clients for losses from fraudulent transactions,Indemnities
+15,This Agreement states the Tenant indemnifies the Landlord for damages to the leased property,Indemnities
+16,This Agreement states the Contractor indemnifies the Client for subcontractor actions,Indemnities
+17,This Agreement states the Manufacturer indemnifies distributors for product claims,Indemnities
+18,This Agreement states the Business Owner indemnifies clients for losses due to business interruptions,Indemnities
+19,This Agreement states the Vehicle Owner indemnifies passengers for accidents involving the vehicle,Indemnities
+20,This Agreement states the Property Owner indemnifies guests for damage to personal property,Indemnities
+21,This Agreement states the Renter indemnifies the Lessor for violations of a rental agreemen,Indemnities
+22,This Agreement states the Contractor indemnifies the Client for negligence during construction,Indemnities
+23,This Agreement states the Employer indemnifies employees for work-related injuries,Indemnities
+24,This Agreement states the Manufacturer indemnifies customers for warranty claims,Indemnities
+25,This Agreement states the Service Provider indemnifies clients for service interruptions,Indemnities
+26,This Agreement states the Designer indemnifies clients for design defects,Indemnities
+27,This Agreement states the Financial Institution indemnifies clients for financial losses,Indemnities
+28,This Agreement states the Company indemnifies individuals for privacy violations,Indemnities
+29,This Agreement states the Data Controller indemnifies data subjects for data privacy breaches,Indemnities
+30,This Agreement states the Tenant indemnifies the Landlord for disputes related to rental property,Indemnities
+31,This Agreement states the Borrower indemnifies the Lender for disputes related to loan agreements,Indemnities
+32,This Agreement states the Content Creator indemnifies distributors for intellectual property claims,Indemnities
+33,This Agreement states the Professional indemnifies clients for negligence claims,Indemnities
+34,This Agreement states the Taxpayer indemnifies the Tax Authority for tax audit-related expenses,Indemnities
+35,This Agreement states the Employer indemnifies employees for workplace discrimination,Indemnities
+36,This Agreement states the Employer indemnifies employees for employment-related disputes,Indemnities
+37,This Agreement states the Exporter indemnifies the Government for export control violations,Indemnities
+38,This Agreement states the Company indemnifies regulatory agencies for government investigations,Indemnities
+39,This Agreement states the Borrower indemnifies the Lender for non-performance under a loan agreement,Indemnities
+40,This Agreement states the Company indemnifies regulatory agencies for regulatory penalties,Indemnities
+41,This Agreement states the Service Provider indemnifies clients for poor service quality,Indemnities
+42,This Agreement states the Employer indemnifies clients for employee misconduct,Indemnities
+43,This Agreement states the Seller indemnifies the Buyer for breach of warranty,Indemnities
+44,This Agreement states the Licensee indemnifies the Licensor for intellectual property disputes,Indemnities
+45,This Agreement states the Borrower indemnifies the Lender for repayment of a loan,Indemnities
+46,This Agreement states the Property Owner indemnifies neighboring property owners for easement violations,Indemnities
+47,This Agreement states the Company indemnifies regulatory agencies for non-compliance with industry regulations,Indemnities
+48,This Agreement states the Vendor indemnifies the Customer for non-performance under a vendor agreement,Indemnities
+49,This Agreement states the Supplier indemnifies the Manufacturer for delays in the supply chain,Indemnities
+50,This Agreement states the Business Owner indemnifies clients for losses of business opportunities,Indemnities
+51,This Agreement states the Investment Advisor indemnifies clients for losses due to investment fraud,Indemnities
+52,This Agreement states the Contractor indemnifies the Property Owner for construction defects,Indemnities
+53,This Agreement states the Service Provider indemnifies clients for service disruptions,Indemnities
+54,This Agreement states the Supplier indemnifies the Manufacturer for product recalls,Indemnities
+55,This Agreement states the Property Owner indemnifies the Homeowners Association for violations of bylaws,Indemnities
+56,This Agreement states the Tenant indemnifies the Landlord for breach of lease terms,Indemnities
+57,This Agreement states the Insurer indemnifies policyholders for covered losses,Indemnities
+58,This Agreement states the Content Creator indemnifies platforms for content violations,Indemnities
+59,This Agreement states the Developer indemnifies clients for software bugs,Indemnities
+60,This Agreement states the Company indemnifies third parties for violations of anti-bribery laws,Indemnities
+61,This Agreement states the Consultant indemnifies clients for incorrect advice,Indemnities
+62,This Agreement states the Advertiser indemnifies advertising platforms for ad campaign errors,Indemnities
+63,This Agreement states the Franchisor indemnifies franchisees for trademark disputes,Indemnities
+64,This Agreement states the Contractor indemnifies the Client for property damage during construction,Indemnities
+65,This Agreement states the Retailer indemnifies manufacturers for warranty claims,Indemnities
+66,This Agreement states the Tenant indemnifies the Landlord for unpaid rent,Indemnities
+67,This Agreement states the Property Owner indemnifies contractors for construction accidents,Indemnities
+68,This Agreement states the Manufacturer indemnifies retailers for product recalls,Indemnities
+69,This Agreement states the Service Provider indemnifies clients for data breaches,Indemnities
+70,This Agreement states the Consultant indemnifies clients for data breaches,Indemnities
+71,This Agreement states the Event Organizer indemnifies vendors for event disruptions,Indemnities
+72,This Agreement states the Developer indemnifies clients for software vulnerabilities,Indemnities
+73,This Agreement states the Company indemnifies employees for workplace injuries,Indemnities
+74,This Agreement states the Business Owner indemnifies clients for contract breaches,Indemnities
+75,This Agreement states the Supplier indemnifies the Manufacturer for raw material shortages,Indemnities
+76,This Agreement states the Contractor indemnifies clients for project delays,Indemnities
+77,This Agreement states the Service Provider indemnifies clients for data loss,Indemnities
+78,This Agreement states the Vendor indemnifies the Customer for delivery delays,Indemnities
+79,This Agreement states the Content Creator indemnifies platforms for copyright infringements,Indemnities
+80,This Agreement states the Consultant indemnifies clients for misrepresentation,Indemnities
+81,This Agreement states the Company indemnifies third parties for environmental violations,Indemnities
+82,This Agreement states the Contractor indemnifies clients for property damage,Indemnities
+83,This Agreement states the Retailer indemnifies manufacturers for product defects,Indemnities
+84,This Agreement states the Tenant indemnifies the Landlord for property alterations without consent,Indemnities
+85,This Agreement states the Property Owner indemnifies contractors for safety violations,Indemnities
+86,This Agreement states the Manufacturer indemnifies retailers for defective products,Indemnities
+87,This Agreement states the Service Provider indemnifies clients for system failures,Indemnities
+88,This Agreement states the Developer indemnifies clients for data breaches,Indemnities
+89,This Agreement states the Business Owner indemnifies clients for negligence,Indemnities
+90,This Agreement states the Supplier indemnifies the Manufacturer for production delays,Indemnities
+91,This Agreement states the Consultant indemnifies clients for professional misconduct,Indemnities
+92,This Agreement states the Company indemnifies employees for wrongful termination,Indemnities
+93,This Agreement states the Contractor indemnifies clients for construction errors,Indemnities
+94,This Agreement states the Vendor indemnifies the Customer for product defects,Indemnities
+95,This Agreement states the Content Creator indemnifies platforms for content inaccuracies,Indemnities
+96,This Agreement states the Service Provider indemnifies clients for contractual breaches,Indemnities
+97,This Agreement states the Tenant indemnifies the Landlord for unauthorized subletting,Indemnities
+98,This Agreement states the Property Owner indemnifies neighbors for property boundary disputes,Indemnities
+99,This Agreement states the Manufacturer indemnifies retailers for shipping delays,Indemnities
+100,This Agreement states the Developer indemnifies clients for security breaches,Indemnities
+
+
+
+

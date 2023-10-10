@@ -1,0 +1,326 @@
+Clause: End User License  Agreement                                                                 
+Rev. September  2021                                    © ForNAV ApS                                                Page 1 of 6 
+ 
+End User License Agreement  (EULA)  
+ 
+1. DEFINITIONS  
+ 
+1.1. "Licensee " shall mean a physical person or legal entity that has acquired a license to the 
+Software .  
+ 
+1.2. "EULA" shall mean this standard End User License Agreement.  
+ 
+1.3. "ForNAV" shall mean ForNAV ApS, CVR number DK 37045160 . 
+ 
+1.4. "Initial Update Term" shall have the meaning set out in clause 6.3 below.  
+ 
+1.5. "Partner " shall mean the authorized reseller or distributor of ForNAV from whom the 
+Licensee has purchased the license to the Software . 
+ 
+1.6. "Software" shall mean any software  (whether provided as downloadable or as an online 
+service) , tool, utility, documentation , or similar  delivered by ForNAV including the license 
+file, and any revision , update , or upgrade hereto which are made available by ForNAV  to 
+the End User under the terms and conditions set out in this EULA . 
+ 
+1.7. "Working day " shall mean Monday to Friday, except for national holidays in Denmark, and 
+5th of June, 24th of December , and 31st of December.  
+ 
+2. SCOPE OF THE END USER LICENSE  
+ 
+2.1. ForNAV  hereby grants to the Licensee a non -assignable and non -exclusive right to use the 
+Software in accordance with the terms and conditions set out in this EULA  solely for the 
+Licensee’s own internal business operations.  The license is effective upon installatio n by 
+the Licensee and remains in force until termination by either party.  
+ 
+2.2. The Software can be licensed as (i) a perpetual license or (ii) a subscription license that 
+needs to be renewed monthly or annually  (every 12 months).  
+ 
+2.2.1.  A perpetual license gives the Licensee a right to use the licensed version of the 
+Software  perpetual ly. 
+ 
+2.2.2.  A subscription license gives the Licensee a right to use the Software ( the current or 
+at any time the latest version) one (1) month or one (1) year fro m the date of 
+purchase.  The ForNAV Pricelist will determine which options are available.  If the 
+subscription license is not renewed, the Licensee no longer has  any right to use the 
+Software.  
+ 
+2.2.3.  A subscription license is automatically renewed, unless the Licensee has informed 
+the Partner otherwise by giving three  (3) months' written notice before  the end of 
+an update term (a 12 -month period)  for a yearly subscription – or two ( 2) weeks ’ 
+notice for  a monthly subscription . 
+ 
+2.3. The Software is a standard product. It shall be the sole responsibility of the Licensee to 
+ensure that the functions of the Software fulfill the requirements and expectations of the 
+Licensee.   
+ End User License  Agreement                                                                 
+Rev. September  2021                                    © ForNAV ApS                                                Page 2 of 6 
+2.4. The Licensee’s right to use the Software requires that the Lic ensee has accepted the terms 
+and conditions in this EULA . One license (perpetual or subscription) gives the Licensee the 
+right to use the Software for one physical person  or one legal entity , for the number of 
+users and user types acquired , and for one database or one tenant . 
+ 
+2.5. The Licensee  agree s that ForNAV may audit the Licensee's use of the Software for 
+compliance with this EULA at any time, upon reasonable notice. In the event that such an 
+audit reveals any use of the Softwar e by the Licensee  other than in full compliance with 
+the terms of this EULA, the Licensee  shall reimburse ForNAV for all reasonable expenses 
+related to such an audit in addition to any other liabilities the Licensee  may incur as a 
+result of such non -compliance.  
+ 
+2.6. In case of termination of the agreement with the Partner, ForNAV may with regard to 
+ForNAV’s Software take over or reassign  the Licensee of the Partner to another partner.  
+ 
+2.7. In case  the Licensee wants to reassign to another partner  other than the Partner , the 
+Licensee must inform ForNAV hereof in writing no later than two (2) months before the 
+end of an update term, cf. c lause 6 below.  
+ 
+3. INTELLECTUAL PROPERTY RIGHTS  
+ 
+3.1. The Licensee shall obtain no rights to the Software. ForNAV  retains all intellectual property 
+rights to the Software , updates, documentation , and all data enclosed in it, including, but 
+not limited to, copyright, trademark s and other rights, titles and interes ts in the Software.   
+ 
+3.2. The Licensee is not permitted to publish the Software without the explicit, written consent 
+of ForNAV . This also applies to any documentation delivered by ForNAV . 
+ 
+3.3. The Licensee may not reverse engineer, decompile , or disassemble the Software except 
+when otherwise allowed by mandatory statutory provisions. The Licensee shall always 
+notify ForNAV  in writing in advance of such acts.  
+ 
+3.4. Upon an infringement of ForNAV ’s intellectual  property right s, ForNAV  shall be entitled to 
+terminate this Agreement for cause with immediate effect, as per clause  11.2. 
+ 
+4. USE OF THE SOFTWARE  
+ 
+4.1. By installing, copying, or otherwise using the Software, the Licensee  agree s to be bound 
+by the terms of this EULA.   
+ 
+4.2. The Licensee acknowledges that the use of some parts of the Software and licensing may 
+require connection to the Internet.  
+ 
+4.3. Should the Licensee use the Software, including any documentation, for another physical 
+person or legal entity than  the Licensee , ForNAV  is entitled to a penalty amounting to two 
+times  ForNAV ’s list price for the unpaid End User license. The p enalty shall be calculated 
+in accordance with the list price of the End User license valid at the time ForNAV  becomes 
+aware of the unauthorized  use of the Software.  
+ 
+4.4. The Licensee alone is responsible for the backup of all data, configurations , and settings 
+stored in the Software.   
+ 
+ 
+ End User License  Agreement                                                                 
+Rev. September  2021                                    © ForNAV ApS                                                Page 3 of 6 
+5. USE OF THE SOFTWARE WITH FORNAV ONLINE SERVICES  
+ 
+5.1. Some use of the Software  requires the Software to use one or more online services in the 
+cloud computing platform Microsoft Azure (or other cloud computing platforms). It is 
+expressly stated that ForNAV is not responsible for downtime or other interruptions in the 
+service relatin g to Microsoft Azure (or other cloud computing platforms) and/or otherwise 
+out of ForNAV's control.  
+ 
+5.2. The usage of ForNAV online services on Microsoft Azure (or other cloud computing 
+platforms) is covered by ForNAV , based on "fair usage " consumption.  This is defined as 
+executing 100 pages (print to printer, PDF, Microsoft Word, preview, Save As…) per user 
+per day , measured as an average over 30 days. For the "unlimited users" license, this is 
+defined as 1000 pages (print to printer, PDF, Microsoft Word, preview, Save As…) per day, 
+measured as an average over 30 days. Should the number of pages exceed this, ForNAV 
+reserve s the right to invoice the Licensee for additional cloud computing usage.  
+ 
+5.3. When using the ForNAV online services, data ar e transferred to and from the service . This 
+data is not stored or logged by ForNAV. The Licensee accept s that ForNAV can have access 
+to data as part of a support incident , preventive troubleshooting, debugging , or other 
+activities to ensure stable  operation of the ForNAV online services . ForNAV may collect 
+telemetry data about usage of the software for performance, optimization, improvement , 
+and statistics . 
+ 
+6. UPDATES  
+ 
+6.1. ForNAV will use its best endeavor s to ensure on -going development of the Software, 
+including correction of errors and inexpediency and, at the discretion of ForNAV, to change 
+the Software with the aim of making the Software compatible with new versions of third -
+party’s standard software.   
+ 
+6.2. Subscription license:  
+6.2.1.  When purchasing a subscription license to the Software , an update fee is included 
+in the subscription license, thus the Licensee will have access to relevant updates.  
+ 
+6.3. Perpetual license:  
+6.3.1.  When purchasing a perpetual license  to the Software, the purchase of relevant 
+updates is mandatory in the first year (the "Initial Update Term") . The Initial Update 
+Term runs from the date of purch ase for the following 12 months . The Licensee 
+must pay an update fee for  the Initial Update T erm, according to the ForNAV 
+Pricelist .  
+ 
+6.3.2.  After the expiry of the Initial U pdate Term, the Licensee will have access to relevant 
+updates , unless the Licensee has  informed the Partner otherwise  by giving three  
+(3) months' written notice  to the end of an update term (a 12 -month period) . The 
+Licensee must pay an update fee for access to these updates , according to the 
+ForNAV Pricelist .   
+ 
+6.3.3.  Should the Licensee decide not to renew, the Licensee will no longer be eligible for 
+any new updates, to support, nor to purchase any additional users or features to 
+the license.  
+ 
+6.4. In the event that  the Licensee has terminated this Agreement with or without cause in 
+accordance with the provision in clause  11 and wants to reactivate it, the Licensee must 
+pay for both the  updates that have been released in the  inactive term and any new updates . End User License  Agreement                                                                 
+Rev. September  2021                                    © ForNAV ApS                                                Page 4 of 6 
+The update fee for the inactive term (the retroactive fee) shall be calculated on the basis 
+of the license fee paid at the time of the acquisition of the license , in accordance with the 
+ForNAV Pricelist . The retroactive fee is calculated yearly with the percentag e rate stipulated 
+in clause  6.3.1 plus three ( 3) percentage points.  
+ 
+6.5. The Licensee acknowledges that updates to the Software may not work with the Licensee’s 
+hardware, add -ons, third -party software , or custom fit adjustments or modifications.   
+ 
+6.6. The use of updates is the sole responsibility of the Licensee, and  the Licensee should install , 
+test, and validate any update in a similar test environment , before installing on their 
+production system . 
+ 
+7. SUPPORT  
+ 
+7.1. The Partner is the Licensee’s first point of contact and reference in respect to all matters 
+concerning the Software, including but not limited to support.  
+ 
+7.2. ForNAV offer s online support  to the Partner .  
+ 
+7.3. Support enquiries that are not related to errors  that are reproducible in the most recent 
+version of the Software and in the most recent version of the Microsoft Dynamics  365 
+Business Central standard database  and that cannot be answered electronically or that 
+require more in -depth conversation or meetings, will be invoiced according to the ForNAV 
+Pricelist . 
+ 
+8. ASSIGNMENT  
+ 
+8.1. The Licensee is not entitled to  lend, lease, sublicens e, transfer , or otherwise assign  its 
+rights and obligations given u nder this Agreement without ForNAV ’s prior  written  consent. 
+Any assignment shall not be legal without ForNAV ’s prior written consent. Assignment also 
+includes transfer or adoption in connection with a merger, demerger, outsourcing , and 
+similar events or activities within and outside the group of companies to which the Licensee 
+belongs.   
+ 
+8.2. If the Licensee assigns the Software  in conflict with the provisions above, ForNAV  may 
+terminate this Agreement with immediate effect, as described in clause  11. 
+ 
+8.3. ForNAV  may at any time in full or in part assign its rights and obligations under this 
+Agreement to any third party.  
+ 
+9. INFRINGEMENTS OF THIRD -PARTY RIGHTS  
+ 
+9.1. ForNAV  represents and warrants that it has the right to license the Software, including any 
+documentation, to the Licensee, and that ForNAV  holds the necessary rights, titles , and 
+licenses to allow the Licensee to perform all rights contemplated by this Agreement, and 
+that the Software does not infringe any third -party's right that is valid within and 
+enforceab le in Denmark.   
+ 
+9.2. The above representations and warrant ies do not apply to infringements or 
+misappropriations result ing from modifications of the Software, including any 
+documentation, by the Licensee, or the Licensee's operation or use of the Software with  
+devices, data , or software furnished by the Licensee.  If the Licensee embeds  fonts or any 
+other third -party intellectual properties using  the Software, it is the sole responsibility of 
+the License e to have the necessary rights to do so.  End User License  Agreement                                                                 
+Rev. September  2021                                    © ForNAV ApS                                                Page 5 of 6 
+ 
+9.3. If a third party towards the Licensee claims that the Software infringes third -party rights, 
+the Licensee shall immediately inform ForNAV in writing and ForNAV shall take over the 
+defense  of the claim. ForNAV shall at its cost have full control of any proceedings arising 
+out of any infringement of third -party rights.  
+ 
+9.4. If the License e becomes aware of any infringement or potential infringement of the 
+Software it shall pro mptly notify ForNAV in writing.  
+ 
+10. PROVIDED "AS IS"  
+ 
+10.1.  The S oftware  and any related documentation is provided "as is" without warranty of any 
+kind, either express or implied, including, without limitation, the implied warranties or 
+merchantability, fitness for a particular purpose. The entire risk arising out of use or 
+performance of the Software  remains with Licensee .  
+ 
+10.2.  The Software delivered under this Agreement is a standard product, and the Licensee is 
+aware that no software product is faultless in all situations and combinations.   
+ 
+10.3.  ForNAV  shall not be liable for any defects. This Agreement includes neither warranty 
+against defects, nor any warranty of fitness or suitability for a particular purpose.  
+ 
+10.4.  Immediately after a reproducible error or defect is discovered or should be discovered , the 
+Licensee mus t give notice to ForNAV ’s Partner  whom  the Licensee is cooperating with at 
+the time of the notification. Upon notification , the Licensee must specify the error or defect.  
+ 
+10.5.  ForNAV  will use its best endeavors to remedy errors and defects which are reproducib le in 
+the most recent version of the Software and in the most recent version of the Microsoft 
+Dynamics 365 Business Central standard database . 
+ 
+10.6.  The actual scope and procedure for remedy of any errors or defects is at the free and 
+independent discretion of ForNAV, who  may remedy essential errors and defects by 
+releasing an update of the Software.  ForNAV  will remedy non -essential errors and defects 
+to the extent ForNAV  finds it necessary . 
+ 
+11. TERMINATION  
+ 
+11.1.  The Licensee may terminate this EULA for the future at any time by ceasing the use of the 
+Software and promptly destroying and deleting all copies, including any documentation. 
+The Licensee shall not b e entitled to any refund of the license fee.   
+ 
+11.2.  In the event that the Licensee fails to comply with any of the terms or conditions of this 
+Agreement, ForNAV  may terminate for cause the Licensee's right to use the Software, 
+including any documentation, at any time upon a written notice of 30 days. Upon such 
+termination the Licensee must destroy and delete all copies of the Software, including any 
+documentation . The Licensee shall not be entitled to any refund of the license fee upon 
+such termination.  
+ 
+12. LIABILITY OF THE LICENSEE  
+ 
+12.1.  General rules of Danish law are applicable to the  Licensee ’s breach of contract.  In the event 
+of the Licensee's breach of any of its ob ligations set out in this EULA, ForNAV shall be 
+entitled to terminate this EULA with immediate effect.   
+ End User License  Agreement                                                                 
+Rev. September  2021                                    © ForNAV ApS                                                Page 6 of 6 
+13. LIMITATION OF LIABILITY  
+ 
+13.1.  ForNAV  expressly disclaims any liability, whether expressed or implied  with regard to (i ) 
+defects and errors, which are not related to the Software , but which are related to external 
+factors, including other software products of the Licensee, (ii) acts or omissions of the 
+Partners of ForNAV  (iii) the interaction between the Software  and any o ther hardware 
+and/or software environment and organization at the Licensee’s location  or at any remote 
+location, including but not limited to hosting or data centers  (iv) errors, defects , and 
+inexpediency of third -party’s standard products, delivered by ForNAV (v) the Licensee’s 
+changes and/or modifications in or with the Software , and (vi) compatibility between the 
+Software  and any new version, update etc. of third -party’s s oftware.   
+ 
+13.2.  ForNAV  shall not in any way be liable for circumstances related to the non -fulfilment of the 
+Licensee’s duties in respect of this Agreement. In no event shall ForNAV  be held liable for 
+any damage resulting from loss of dat a, loss of profits or goodwill  or other consequential 
+damages . ForNAV's liability can under no circumstances exceed the license fee paid by the 
+Licensee under the Agreement  excluding any upda te fee paid in accordance with c lause 6 
+above . 
+ 
+14. CHANGES TO THIS AGREEMENT  
+ 
+14.1.  ForNAV ’s Partner or distributor of the Software may not under any circumstances deviate 
+from or make changes to these terms and conditions without ForNAV ’s explicit consent in 
+writing, which must be made in accordance with the provisions in ForNAV ’s articles of 
+association relating to the power to bind ForNAV .  
+ 
+15. VALIDITY  
+ 
+15.1.  If any provision in this Agreement is held to be illegal, invalid , or unenforceable, such 
+provision(s) shall nonetheless be enforced to the fullest extent permitted by applicable law, 
+so as to ref lect the original intent of the parties. Such provision(s) shall not affect the 
+legality and validity of the other provisions in this Agreement.   
+ 
+16. GOVERNING LAW AND DISPUTE RESOLUTION  
+ 
+16.1.  This EULA shall be governed and construed by Danish law, and supersedes all prior and 
+contemporaneous oral and written proposals and communications respecting the subject 
+matter hereof.   
+ 
+16.2.  The Parties will use all reasonable efforts to solve any controversy  that may arise from this 
+EULA amicably at senior management levels of both parties. Disputes that cannot be 
+settled amicably shall be settled at the Copenhagen City Court.  
+ 
+17. INTERPRETATION  
+ 
+17.1.  If any provision of this EULA is held illegal or unenforceable by any court of competent 
+jurisdiction, such provision shall be deemed separable from the remaining provisions of 
+this agreement and shall not effect or impair the validity or enforceability of the remaining 
+provisions of this agreement.
+Predicted Category: 
